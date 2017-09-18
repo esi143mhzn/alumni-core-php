@@ -1,0 +1,21 @@
+body{
+    background-color: darkgrey;
+}
+
+.container{
+    width: 300px;
+    padding: 25px;
+    background-color: white;
+    margin-top: 100px;
+}
+
+.header{
+    width: 1365px;
+    height: 50px;
+    background-color: #3c3c3c;
+    text-decoration-color: white;
+}
+
+
+
+
